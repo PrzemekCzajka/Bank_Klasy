@@ -1,0 +1,15 @@
+C:\Users\Acer\Documents\GitHub\quiz_gr1\Bank_klasy\Bank_klasy\bin\Debug\net6.0\Bank_klasy.exe
+C:\Users\Acer\Documents\GitHub\quiz_gr1\Bank_klasy\Bank_klasy\bin\Debug\net6.0\Bank_klasy.deps.json
+C:\Users\Acer\Documents\GitHub\quiz_gr1\Bank_klasy\Bank_klasy\bin\Debug\net6.0\Bank_klasy.runtimeconfig.json
+C:\Users\Acer\Documents\GitHub\quiz_gr1\Bank_klasy\Bank_klasy\bin\Debug\net6.0\Bank_klasy.dll
+C:\Users\Acer\Documents\GitHub\quiz_gr1\Bank_klasy\Bank_klasy\bin\Debug\net6.0\Bank_klasy.pdb
+C:\Users\Acer\Documents\GitHub\quiz_gr1\Bank_klasy\Bank_klasy\obj\Debug\net6.0\Bank_klasy.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\GitHub\quiz_gr1\Bank_klasy\Bank_klasy\obj\Debug\net6.0\Bank_klasy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Documents\GitHub\quiz_gr1\Bank_klasy\Bank_klasy\obj\Debug\net6.0\Bank_klasy.AssemblyInfoInputs.cache
+C:\Users\Acer\Documents\GitHub\quiz_gr1\Bank_klasy\Bank_klasy\obj\Debug\net6.0\Bank_klasy.AssemblyInfo.cs
+C:\Users\Acer\Documents\GitHub\quiz_gr1\Bank_klasy\Bank_klasy\obj\Debug\net6.0\Bank_klasy.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\GitHub\quiz_gr1\Bank_klasy\Bank_klasy\obj\Debug\net6.0\Bank_klasy.dll
+C:\Users\Acer\Documents\GitHub\quiz_gr1\Bank_klasy\Bank_klasy\obj\Debug\net6.0\refint\Bank_klasy.dll
+C:\Users\Acer\Documents\GitHub\quiz_gr1\Bank_klasy\Bank_klasy\obj\Debug\net6.0\Bank_klasy.pdb
+C:\Users\Acer\Documents\GitHub\quiz_gr1\Bank_klasy\Bank_klasy\obj\Debug\net6.0\Bank_klasy.genruntimeconfig.cache
+C:\Users\Acer\Documents\GitHub\quiz_gr1\Bank_klasy\Bank_klasy\obj\Debug\net6.0\ref\Bank_klasy.dll
